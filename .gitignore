@@ -1,0 +1,16 @@
+# Dependencias y compilados
+node_modules/
+target/
+build/
+bin/
+out/
+
+# Entornos y secretos
+.env
+.env.*
+
+# Editores / IDEs / Sistema operativo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
